@@ -1,5 +1,5 @@
 # hello-world
-to learn how to use github.\n
+to learn how to use github.
 
 this is a change in the readme...
 instead of write about myself i write this...
